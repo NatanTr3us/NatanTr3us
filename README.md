@@ -4,7 +4,7 @@
 
 #### Sou um Jovem que ama esse mundo da Tecnologia, como também o mundo hacker, Fui ganha meu primeiro computador com 9 anos, desde então surgiu uma enorme vontade de aprender mais sobre esse assunto, comecei a desmontar e montar pequenos briquedos utilizando peças de "Dvds antigos, impressoras, celulares enttre outras coisas", em 2013 comecei a aprender sobre programação, Tudo isso aprendi Pesquisando sobre o assunto, lendo E-books/livros, assistindo Videos pela Internte. 
 
-## Lingaugens que mais Utilizo
+## Linguagens que mais Utilizo
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
